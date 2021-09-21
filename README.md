@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @pidospidos, or Iagow, or simply: Iago
+# 👋 Hi, I’m @iagoscm, or Iagow, or simply: Iago
 # 👨‍💻 Software Engineering student
 - 🌱 I’m currently learning C (I know a little bit of Python)
 - 💻 Focusing in being a back-end developer
